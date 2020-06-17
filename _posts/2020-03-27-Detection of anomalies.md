@@ -8,11 +8,11 @@ excerpt: "anomalies, Data Science, statistics"
 ---
 ### Detection of anomalies using Machine Learning
 
-Today i've been working on detection of anomalies using Keras framework <br/>
+Today I've been working on detection of anomalies using Keras framework <br/>
 
-It wasn't so difficult but a quite very labour intensive job <br/>
+It wasn't so difficult but a quite very labor intensive job <br/>
 
-But finally there's the results: <br/>
+But finally, there are the results: <br/>
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/newplot.png" alt="Anomaly detection using machine learning">
 
