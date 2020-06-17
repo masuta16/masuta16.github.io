@@ -6,7 +6,7 @@ header:
   image: "/images/exoplanets.jpeg"
 ---
 Here's my list of courses until now <br/>
-<img src="{{ site.url }}{{ site.baseurl }}/images/perceptron/linsep.jpg" alt="Python For Data Science: Fundamentals Course"> <br/>
+ [Python For Data Science: Fundamentals Course](https://github.com/dataoptimal)?
 Python For Data Science: Intermediate Course <br/>
 Storytelling Through Data Visualization Course <br/>
 Data Cleaning In Python: Advanced Course <br/>
