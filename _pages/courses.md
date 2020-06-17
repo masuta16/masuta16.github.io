@@ -47,12 +47,10 @@ header:
 [Algorithm Complexity Course](https://app.dataquest.io/view_cert/VAC4JNVQWBUI5LDMUTAA/)<br/>
 [Intermediate SQL for Data Engineering Course](https://app.dataquest.io/view_cert/1E8AS1TO0M21LEJ3E4AH/)<br/>
 [Postgres for Data Engineers Course](https://app.dataquest.io/view_cert/5A6G1CLEMMLT1VC5Y81B/)<br/>
-Optimizing Postgres Databases Course
-[Postgres for Data Engineers Course](https://app.dataquest.io/view_cert/H5S775I1F60YYNGEU87M/)<br/>
+[Optimizing Postgres Databases Course](https://app.dataquest.io/view_cert/H5S775I1F60YYNGEU87M/)<br/>
 [Processing Large Datasets In Pandas Course](https://app.dataquest.io/view_cert/L39AATG8I30QPZCXIBQ1/)<br/>
 [Optimizing Code Performance On Large Datasets Course](https://app.dataquest.io/view_cert/OT5EH64TY6AEGJFTQX4A/)<br/>
 [Algorithms And Data Structures Course](https://app.dataquest.io/view_cert/IKS2QFD3DGVQ9T0IFVQX/)<br/>
-Building a Data Pipeline Course
 [Building a Data Pipeline Course](https://app.dataquest.io/view_cert/ET61W985HXN69LJRZ8NH/)<br/>
 [Data Engineer Path](https://app.dataquest.io/view_cert/Z43Z1I2MTG5W1UUL9DAF/)<br/>
 [Recursion and Trees Course](https://app.dataquest.io/view_cert/AYSJO5COC21AFPAJWX7H/)<br/>
