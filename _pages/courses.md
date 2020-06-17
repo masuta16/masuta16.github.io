@@ -54,4 +54,65 @@ header:
 [Building a Data Pipeline Course](https://app.dataquest.io/view_cert/ET61W985HXN69LJRZ8NH/)<br/>
 [Data Engineer Path](https://app.dataquest.io/view_cert/Z43Z1I2MTG5W1UUL9DAF/)<br/>
 [Recursion and Trees Course](https://app.dataquest.io/view_cert/AYSJO5COC21AFPAJWX7H/)<br/>
-###Coursera
+<br/>
+<h2>Coursera</h2>
+<br/>
+
+[Cryptography I(from Stanford Online)](https://coursera.org/share/449cca20cb5ea1c9942790ed4391f1fa)<br/>
+
+[Mathematics for Machine Learning Specialization (from Imperial College London)](https://coursera.org/share/5ab87df380768bc15fcdf0b300020c56)<br/>
+In this course was taught Mathematics for Machine Learning: Linear, Algebra Mathematics for Machine Learning: Multivariate Calculus
+and finally Mathematics for Machine Learning explaining the PCA Algorithm<br/>
+
+[Data Science Math Skills (Duke University)](https://coursera.org/share/7c309ac87918ede5b6631551db620e9b)<br/>
+In this course was taught Bayes theorem, combinatory analysis, probability and calculus<br/>
+
+
+[IBM Data Science Specialization](https://coursera.org/share/51374763521710058228be3e98569ef2)<br/>
+It's a course whith 9 subjects where you can learn about subjects like machine learning, Data Analysis, SQL and Data visualizations with many final projects.<br/>
+
+[IBM AI Engineering Professional Certificate Specialization](https://coursera.org/share/407489c87bce510d1cc57f213060271c)<br/>
+In this course was taught how to create a machine learning project in python, how to make a project in Big data using Apache Spark, as well, was taught about the frameworks Keras, Pytorch and Tensorflow, with many final projects too.<br/>
+
+[Structuring Machine Learning Projects](https://coursera.org/share/b522635bb261446f7365df8c631e99cc)<br/>
+
+
+
+
+[Machine Learning Specialization (from Washington University)](https://coursera.org/share/9f61a05f39d4be090f5ace06ff067bf9)<br/>
+In this Machine Learning Specialization was used the graphlab and turicreate  library to create regression methods, cluster methods, visualization, manipulation and classification of data<br/>
+
+[Graph Analytics for Big Data(University of California)](https://coursera.org/share/e7bacd0e8c37b7a83cb400d0a26e0b7f)<br/>
+
+
+
+[Big Data Modeling and Management Systems (University of California)](https://coursera.org/share/7b73d19ce7e91831fb5d1652c6396be7)<br/>
+
+
+
+[Introduction to Big Data (University of California)](https://coursera.org/share/232efc1d5ec81effe0eee4b01ca9a05c)<br/>
+
+
+
+[Machine Learning With Big Data (University of California)](https://coursera.org/share/1410cb231c5ecc81078b1aba0e7ed54c)<br/>
+
+
+
+[Big Data Integration and Processing (University of California)](https://coursera.org/share/a60d5aa5ec59dca2d9210a8a28995186)<br/>
+
+
+[Introduction to Computer Vision with Watson and OpenCV](https://coursera.org/share/7d0f5ed1ecf1d9d0a69a1445483823aa)<br/>
+
+
+
+[Introduction to Artificial Intelligence (AI)](https://coursera.org/share/87eb7a94a0c339dd8eae577815952a8d)<br/>
+
+[Data-driven Astronomy](https://coursera.org/share/61b480f69432aac45e3c60505ef0309f)<br/>
+
+
+
+[Building AI Powered Chatbots Without Programming](https://coursera.org/share/b32c08d3260addd9bc62e794dd7f4067)<br/>
+
+<br/>
+<h2>Udemy</h2>
+<br/>
