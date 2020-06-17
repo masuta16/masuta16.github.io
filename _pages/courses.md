@@ -18,7 +18,7 @@ header:
 [SQL Fundamentals Course](https://app.dataquest.io/view_cert/GFGIZCU6R2EN1DC9DIKT/)<br/>
 [Statistics Fundamentals Course](https://app.dataquest.io/view_cert/2SQ4A5M7C2NY5NHMCR34/)<br/>
 [Statistics Intermediate: Averages And Variability Course](https://app.dataquest.io/view_cert/DG76OLZ31F9LNVR6J3Z4/)<br/>
-[Probability: Fundamentals Course]https://app.dataquest.io/view_cert/5C4MZ9C9TRU46A68DSGV/)<br/>
+[Probability: Fundamentals Course](https://app.dataquest.io/view_cert/5C4MZ9C9TRU46A68DSGV/)<br/>
 [Conditional Probability Course](https://app.dataquest.io/view_cert/0SW01VEBS6HWD39J4GJL/)<br/>
 [Hypothesis Testing: Fundamentals Course](https://app.dataquest.io/view_cert/1XHVOO8C1CX7XYOXV7QF/)<br/>
 [Data Analysis In Business Course](https://app.dataquest.io/view_cert/28YBMUFEZT7NP0RDKQKE/)<br/>
