@@ -112,7 +112,3 @@ In this Machine Learning Specialization was used the graphlab and turicreate  li
 
 
 [Building AI Powered Chatbots Without Programming](https://coursera.org/share/b32c08d3260addd9bc62e794dd7f4067)<br/>
-
-<br/>
-<h2>Udemy</h2>
-<br/>
