@@ -5,8 +5,9 @@ title: "Courses"
 header:
   image: "/images/exoplanets.jpeg"
 ---
-Here's my list of courses until now <br/>
- [Python For Data Science: Fundamentals Course](https://github.com/dataoptimal)?
+Here's my list of courses until now in data science<br/>
+[Python For Data Science: Fundamentals Course](https://app.dataquest.io/view_cert/54D0KC4BGYSVX61GA6YS/)
+[Python For Data Science: Intermediate Course](https://app.dataquest.io/view_cert/54D0KC4BGYSVX61GA6YS/)
 Python For Data Science: Intermediate Course <br/>
 Storytelling Through Data Visualization Course <br/>
 Data Cleaning In Python: Advanced Course <br/>
