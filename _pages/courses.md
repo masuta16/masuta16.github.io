@@ -112,3 +112,8 @@ In this Machine Learning Specialization was used the graphlab and turicreate  li
 
 
 [Building AI Powered Chatbots Without Programming](https://coursera.org/share/b32c08d3260addd9bc62e794dd7f4067)<br/>
+
+<br/>
+<h2>Datacamp</h2>
+<br/>
+[Introduction to Scala](https://www.datacamp.com/statement-of-accomplishment/course/b35465fd4390dc360ebc30ce27ab8a4e6abb1285)<br/>
