@@ -7,8 +7,8 @@ header:
 ---
 Here's my list of courses until now
 
-Python For Data Science: Fundamentals Course
-Python For Data Science: Intermediate Course
+Python For Data Science: Fundamentals Course \
+Python For Data Science: Intermediate Course \
 Storytelling Through Data Visualization Course
 Data Cleaning In Python: Advanced Course
 Exploratory Data Visualization Course
