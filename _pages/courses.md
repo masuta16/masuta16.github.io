@@ -69,7 +69,7 @@ In this course was taught Bayes theorem, combinatory analysis, probability and c
 
 
 [IBM Data Science Specialization](https://coursera.org/share/51374763521710058228be3e98569ef2)<br/>
-It's a course whith 9 subjects where you can learn about subjects like machine learning, Data Analysis, SQL and Data visualizations with many final projects.<br/>
+It's a course with 9 subjects where you can learn about subjects like machine learning, Data Analysis, SQL and Data visualizations with many final projects.<br/>
 
 [IBM AI Engineering Professional Certificate Specialization](https://coursera.org/share/407489c87bce510d1cc57f213060271c)<br/>
 In this course was taught how to create a machine learning project in python, how to make a project in Big data using Apache Spark, as well, was taught about the frameworks Keras, Pytorch and Tensorflow, with many final projects too.<br/>
